@@ -1,0 +1,14 @@
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\bin\Debug\netcoreapp3.1\Inverter.exe
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\bin\Debug\netcoreapp3.1\Inverter.deps.json
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\bin\Debug\netcoreapp3.1\Inverter.runtimeconfig.json
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\bin\Debug\netcoreapp3.1\Inverter.runtimeconfig.dev.json
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\bin\Debug\netcoreapp3.1\Inverter.dll
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\bin\Debug\netcoreapp3.1\Inverter.pdb
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\obj\Debug\netcoreapp3.1\Inverter.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\obj\Debug\netcoreapp3.1\Inverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\obj\Debug\netcoreapp3.1\Inverter.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\obj\Debug\netcoreapp3.1\Inverter.AssemblyInfo.cs
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\obj\Debug\netcoreapp3.1\Inverter.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\obj\Debug\netcoreapp3.1\Inverter.dll
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\obj\Debug\netcoreapp3.1\Inverter.pdb
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio01\Inverter\Inverter\obj\Debug\netcoreapp3.1\Inverter.genruntimeconfig.cache
