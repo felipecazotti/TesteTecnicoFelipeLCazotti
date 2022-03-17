@@ -1,0 +1,14 @@
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.exe
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.deps.json
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.runtimeconfig.json
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.runtimeconfig.dev.json
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.dll
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\bin\Debug\netcoreapp3.1\Empresa.pdb
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.AssemblyInfo.cs
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.dll
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.pdb
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio04\Empresa\Empresa\obj\Debug\netcoreapp3.1\Empresa.genruntimeconfig.cache
