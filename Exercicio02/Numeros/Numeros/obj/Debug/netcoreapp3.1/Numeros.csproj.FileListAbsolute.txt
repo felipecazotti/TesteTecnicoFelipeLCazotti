@@ -1,0 +1,14 @@
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\bin\Debug\netcoreapp3.1\Numeros.exe
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\bin\Debug\netcoreapp3.1\Numeros.deps.json
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\bin\Debug\netcoreapp3.1\Numeros.runtimeconfig.json
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\bin\Debug\netcoreapp3.1\Numeros.runtimeconfig.dev.json
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\bin\Debug\netcoreapp3.1\Numeros.dll
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\bin\Debug\netcoreapp3.1\Numeros.pdb
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\obj\Debug\netcoreapp3.1\Numeros.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\obj\Debug\netcoreapp3.1\Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\obj\Debug\netcoreapp3.1\Numeros.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\obj\Debug\netcoreapp3.1\Numeros.AssemblyInfo.cs
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\obj\Debug\netcoreapp3.1\Numeros.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\obj\Debug\netcoreapp3.1\Numeros.dll
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\obj\Debug\netcoreapp3.1\Numeros.pdb
+C:\Users\felip\Desktop\GFTTesteTecnico\TesteTecnicoFelipeLCazotti\Exercicio02\Numeros\Numeros\obj\Debug\netcoreapp3.1\Numeros.genruntimeconfig.cache
